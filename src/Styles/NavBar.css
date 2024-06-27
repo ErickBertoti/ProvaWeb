@@ -12,6 +12,10 @@ nav{
     padding: 40px;
 }
 
+h2{
+    color: white;
+}
+
 nav > a{
     color: white;
 }
